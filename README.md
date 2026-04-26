@@ -6,7 +6,7 @@ An interactive 3D browser experience where you control a robot exploring the **O
 ---
 
 ## 🎮 Live Demo
-https://app.netlify.com/projects/cybercityexplorer
+https://cybercityexplorer.netlify.app
 
 ---
 
